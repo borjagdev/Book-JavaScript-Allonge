@@ -1,5 +1,5 @@
 // Considering the JavaScript environment as a more simple abstraction: 
-//  We give the computer an **expression** -> It returns a **value**
+// We give the computer an **expression** -> It returns a **value**
 
 describe('Values and Expressions', () => {
 
@@ -25,7 +25,7 @@ describe('Values and Expressions', () => {
         expect(2 + 2 === 4).toBe(true);
         expect((2 + 2 === 4) === (2 !== 5)).toBe(true);
 
-        // Some expressions have their unique "id", like Arrays
+        // Some expressions have their own unique "id", like Arrays
         // Even if the output value of its component expressions is the same, they are different
         expect([2-1, 2, 2+1] === [1,2,3]).toBe(false);
         expect([1,2,3] === [1, 2, 3]).toBe(false);

@@ -7,3 +7,6 @@ Note: **Jest** has been used for testing, you can install it executing ```npm in
 ## Prelude: Values and Expressions
 * [Code for this chapter](/src/1_valuesAndExpressions.test.js)
 
+## Basic Numbers
+* [Code for this chapter](/src/2_basicNumbers.test.js)
+
