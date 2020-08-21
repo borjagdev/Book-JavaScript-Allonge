@@ -1,0 +1,25 @@
+{
+  "name": "javascript-allonge",
+  "version": "1.0.0",
+  "description": "Just following the book",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borjagdev/JavaScript-Allonge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/borjagdev/JavaScript-Allonge/issues"
+  },
+  "homepage": "https://github.com/borjagdev/JavaScript-Allonge#readme",
+  "dependencies": {
+    "jest": "^26.4.1"
+  }
+}
